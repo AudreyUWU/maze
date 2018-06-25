@@ -11,7 +11,7 @@ let avatarCol;
 
 // START HERE -----------------------------------------------------------------/
 
-// Using the map in map.js, create a mazze game. "W" represents walls, "S"
+// Using the map in map.js, create a maze game. "W" represents walls, "S"
 // represents the player's starting postion, and "F" represents the maze finish
 // position. Consult maze.css for hints at what classes/ids to give various
 // elements. 
